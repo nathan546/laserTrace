@@ -12,4 +12,9 @@ gcc -o laserTrace laserTrace.c -lm
 
 ## Running
 
-./laserTrace
+./laserTrace</BR>
+File: in.png</BR>
+Sigma: 1.4</BR>
+Low Threshold: .3</BR>
+High Threshold: .75</BR>
+ILDA Compression: .8</BR>
